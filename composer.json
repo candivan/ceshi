@@ -1,0 +1,16 @@
+{
+    "name": "candivan/ceshi",
+    "type": "library",
+    "description": "ceshi",
+    "keywords": ["ceshi"],
+    "license": "MIT",
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "authors": [
+        {
+            "name":"candivan"
+        }
+      
+    ]
+}
